@@ -64,6 +64,6 @@ Loss- Validations Loss
 
 Accuracy- Validations Accuracy
 [![Foto](./accuracy.png)](https://github.com/esradasdan/Sounds-Classification-Deep-Learning-Project)
-
+***
 
 created by esradasdan
