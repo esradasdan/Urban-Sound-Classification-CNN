@@ -1,10 +1,10 @@
 # Sounds Classification Project with Deep Learning 
 
-***
+
 Deep Learning; It is one of the first technologies to be applied in subjects such as data, image processing and sound classification. In this project, deep learning was used to train recorded audio data in a city.
 
 This project used the “UrbanSounds8K” dataset to classify the sounds heard in cities. The aim of this project is to prepare an artificial intelligence model using deep learning algorithms. This dataset contains 8732 labeled sound excerpts of urban sounds from 10 classes.
-***
+
 
 [![Foto](./dlfoto.png)](https://github.com/esradasdan/Sounds-Classification-Deep-Learning-Project)
 
