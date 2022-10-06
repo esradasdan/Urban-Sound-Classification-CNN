@@ -6,7 +6,7 @@ Deep Learning; It is one of the first technologies to be applied in subjects suc
 This project used the “UrbanSounds8K” dataset to classify the sounds heard in cities. The aim of this project is to prepare an artificial intelligence model using deep learning algorithms. This dataset contains 8732 labeled sound excerpts of urban sounds from 10 classes.
 ***
 
-[![Foto](./dlfoto.jpg)](https://github.com/esradasdan/Sounds-Classification-Deep-Learning-Project)
+[![Foto](./dlfoto.png)](https://github.com/esradasdan/Sounds-Classification-Deep-Learning-Project)
 
 ## Resources
 
@@ -60,7 +60,7 @@ Loss- Validations Loss
 ***
 
 Accuracy- Validations Accuracy
-[![Foto](./Accuracy.png)](https://github.com/esradasdan/Sounds-Classification-Deep-Learning-Project)
+[![Foto](./accuracy.png)](https://github.com/esradasdan/Sounds-Classification-Deep-Learning-Project)
 
 
 created by esradasdan
