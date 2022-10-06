@@ -8,17 +8,18 @@ This project used the “UrbanSounds8K” dataset to classify the sounds heard i
 
 [![Foto](./dlfoto.png)](https://github.com/esradasdan/Sounds-Classification-Deep-Learning-Project)
 
+
 ## Resources
 
-***
 Dataset resource;
 https://urbansounddataset.weebly.com/urbansound8k.html
 
 This is the source where I used the preprocessed spectrograms;
 https://drive.google.com/drive/folders/1xey3vAVNDjWxnSfhuUsf_5dGANZWmCog
-***
+
 
 ## Steps
+
 
 ### Preprocessing
 In this step, the data we obtained from the UrbanSound8K.csv file was made ready by matching the '.wav' audio data in the audio folder.
@@ -33,6 +34,7 @@ Our Labels, 'class', are taken from our metadata DataFrame as Y.
 Now we have X and Y.
 
 Our data is set to be 80% Train, 10% Validation, 10% Test.
+
 
 ### Model Preparation and Training
 In this project, we are using Convolutional Neural Networks, CNN, for deep learning. So, we need to build a CNN architecture. Our architecture is as follows:
