@@ -8,7 +8,7 @@ This project used the “UrbanSounds8K” dataset to classify the sounds heard i
 
 [![Foto](./dlfoto.jpg)](https://github.com/esradasdan/kodluyoruzilkrepo)
 
-##Resources
+## Resources
 
 ***
 Dataset resource:
@@ -18,7 +18,7 @@ This is the source where I used the preprocessed spectrograms;
 https://drive.google.com/drive/folders/1xey3vAVNDjWxnSfhuUsf_5dGANZWmCog
 ***
 
-##Steps
+## Steps
 
 ### Preprocessing
 In this step, the data we obtained from the UrbanSound8K.csv file was made ready by matching the '.wav' audio data in the audio folder.
