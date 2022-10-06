@@ -6,12 +6,12 @@ Deep Learning; It is one of the first technologies to be applied in subjects suc
 This project used the “UrbanSounds8K” dataset to classify the sounds heard in cities. The aim of this project is to prepare an artificial intelligence model using deep learning algorithms. This dataset contains 8732 labeled sound excerpts of urban sounds from 10 classes.
 ***
 
-[![Foto](./dlfoto.jpg)](https://github.com/esradasdan/kodluyoruzilkrepo)
+[![Foto](./dlfoto.jpg)](https://github.com/esradasdan/Sounds-Classification-Deep-Learning-Project)
 
 ## Resources
 
 ***
-Dataset resource:
+Dataset resource;
 https://urbansounddataset.weebly.com/urbansound8k.html
 
 This is the source where I used the preprocessed spectrograms;
@@ -37,7 +37,7 @@ Our data is set to be 80% Train, 10% Validation, 10% Test.
 ### Model Preparation and Training
 In this project, we are using Convolutional Neural Networks, CNN, for deep learning. So, we need to build a CNN architecture. Our architecture is as follows:
 
-[![Foto](./cnn-architecture.png)](https://github.com/esradasdan/kodluyoruzilkrepo)
+[![Foto](./cnn-architecture.png)](https://github.com/esradasdan/Sounds-Classification-Deep-Learning-Project)
 
 Detailed features of the established neural network:
 
@@ -56,11 +56,11 @@ Convolutional Layer -> Max Pooling Layer -> Convolutional Layer ->  Flatten -> D
 
 ***
 Loss- Validations Loss
-[![Foto](./loss.png)](https://github.com/esradasdan/kodluyoruzilkrepo)
+[![Foto](./loss.png)](https://github.com/esradasdan/Sounds-Classification-Deep-Learning-Project)
 ***
 
 Accuracy- Validations Accuracy
-[![Foto](./Accuracy.png)](https://github.com/esradasdan/kodluyoruzilkrepo)
+[![Foto](./Accuracy.png)](https://github.com/esradasdan/Sounds-Classification-Deep-Learning-Project)
 
 
 created by esradasdan
