@@ -60,11 +60,10 @@ Accuracy Rate: %81.21
 
 
 ***
-Loss- Validations Loss
+Loss - Validations Loss
 [![Foto](./loss.png)](https://github.com/esradasdan/Sounds-Classification-Deep-Learning-Project)
-***
 
-Accuracy- Validations Accuracy
+Accuracy - Validations Accuracy
 [![Foto](./accuracy.png)](https://github.com/esradasdan/Sounds-Classification-Deep-Learning-Project)
 ***
 
