@@ -56,6 +56,8 @@ Convolutional Layer -> Max Pooling Layer -> Convolutional Layer ->  Flatten -> D
 
 Accuracy Rate: %81.21
 
+[![Foto](./test.png)](https://github.com/esradasdan/Sounds-Classification-Deep-Learning-Project)
+
 
 ***
 Loss- Validations Loss
