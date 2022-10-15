@@ -1,4 +1,4 @@
-# Sounds Classification Project with Deep Learning 
+# Urban Sounds Classification Project with Deep Learning 
 
 
 Deep Learning; It is one of the first technologies to be applied in subjects such as data, image processing and sound classification. In this project, deep learning was used to train recorded audio data in a city.
